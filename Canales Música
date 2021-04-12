@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7" tvg-logo="" group-title="",Mix 24-7
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Top 100" tvg-logo="" group-title="",Mix 24-7 Top 100
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Tropical" tvg-logo="" group-title="",Mix 24-7 Tropical
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Retro" tvg-logo="" group-title="",Mix 24-7 Retro
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Pop" tvg-logo="" group-title="",Mix 24-7 Pop
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Vintage" tvg-logo="" group-title="",Mix 24-7 Vintage
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ConciertosLive" tvg-logo="" group-title="",ConciertosLive
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PuroRock24-7" tvg-logo="" group-title="",PuroRock24-7
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/25.m3u8
